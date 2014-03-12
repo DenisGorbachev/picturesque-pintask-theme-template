@@ -1,7 +1,7 @@
 Picturesque theme template for Pintask
 =========================
 
-Using pictures for board backgrounds has just been made easier. Just specify as the first executable file when adding your extension on http://pintask.me/.
+Using pictures for board backgrounds is easy. Just specify `https://denisgorbachev.github.io/picturesque-pintask-theme-template/picturesque.css` as the first file and your CSS for board background as the second file when adding your extension on http://pintask.me/.
 
 This versatile template is only a few lines of code:
 
