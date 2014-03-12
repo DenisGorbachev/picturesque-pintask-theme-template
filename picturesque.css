@@ -1,20 +1,20 @@
-.top-content {
+html .top-content {
   box-shadow: 0 5px 15px 0 #97989c;
   z-index: 2000;
 }
-.starring-as-board-list,
-.board-edit form,
-.board-calendar .board-calendar-message,
-.list-switcher-wrapper {
+html .starring-as-board-list,
+html .board-edit form,
+html .board-calendar .board-calendar-message,
+html .list-switcher-wrapper {
   background-color: rgba(236,239,244,0.95);
 }
-.board-store .starring-as-board-list {
+html .board-store .starring-as-board-list {
   border-color: rgba(236,239,244,0.95);
 }
-.starring-as-board-lists > .starring-as-board-list {
+html .starring-as-board-lists > .starring-as-board-list {
   margin-left: 15px;
   margin-top: 15px;
 }
-.starring-as-board-lists > .starring-as-board-list .board-list-header {
+html .starring-as-board-lists > .starring-as-board-list .board-list-header {
   margin-top: 10px;
 }
