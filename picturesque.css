@@ -5,7 +5,8 @@ html .top-content {
 html .starring-as-board-list,
 html .board-edit form,
 html .board-calendar .board-calendar-message,
-html .list-switcher-wrapper {
+html .list-switcher-wrapper,
+html .add-list-link-wrapper {
   background-color: rgba(236,239,244,0.95);
 }
 html .board-store .starring-as-board-list {
