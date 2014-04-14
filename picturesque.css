@@ -19,3 +19,6 @@ html .starring-as-board-lists > .starring-as-board-list {
 html .starring-as-board-lists > .starring-as-board-list .board-list-header {
   margin-top: 10px;
 }
+html .add-list-link-wrapper {
+  margin-left: 15px;
+}
